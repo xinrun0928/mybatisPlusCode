@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-active-record/mybatis-plus-active-record.iml" filepath="$PROJECT_DIR$/mybatis-plus-active-record/mybatis-plus-active-record.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-auto-code/mybatis-plus-auto-code.iml" filepath="$PROJECT_DIR$/mybatis-plus-auto-code/mybatis-plus-auto-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-demo01/mybatis-plus-demo01.iml" filepath="$PROJECT_DIR$/mybatis-plus-demo01/mybatis-plus-demo01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-injector/mybatis-plus-injector.iml" filepath="$PROJECT_DIR$/mybatis-plus-injector/mybatis-plus-injector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-plus-interceptor/mybatis-plus-interceptor.iml" filepath="$PROJECT_DIR$/mybatis-plus-interceptor/mybatis-plus-interceptor.iml" />
+    </modules>
+  </component>
+</project>
