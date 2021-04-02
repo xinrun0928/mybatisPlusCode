@@ -159,7 +159,7 @@ public class MyTest {
 //        map.put("last_name","Tom");
 //        map.put("gender","1");
 //
-//        //通过map封装条件查询
+//        通过map封装条件查询
 //        List<Employee> employeeList = employeeMapper.selectByMap(map);
 //        System.out.println(employeeList);
 

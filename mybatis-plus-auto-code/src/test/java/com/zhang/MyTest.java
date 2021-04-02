@@ -8,7 +8,17 @@ import com.baomidou.mybatisplus.generator.config.PackageConfig;
 import com.baomidou.mybatisplus.generator.config.StrategyConfig;
 import com.baomidou.mybatisplus.generator.config.rules.DbType;
 import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
+import com.baomidou.mybatisplus.mapper.EntityWrapper;
+import com.baomidou.mybatisplus.mapper.Wrapper;
+import com.zhang.entity.KpiTypeDim;
+import com.zhang.service.KpiTypeDimService;
+import com.zhang.service.impl.KpiTypeDimServiceImpl;
 import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 public class MyTest {
 
@@ -34,7 +44,7 @@ public class MyTest {
         DataSourceConfig dataSourceConfig = new DataSourceConfig();
         dataSourceConfig.setDbType(DbType.MYSQL)//设置数据库类型
                 .setDriverName("com.mysql.jdbc.Driver")
-                .setUrl("jdbc:mysql://localhost:3306/mybatisplus")
+                .setUrl("jdbc:mysql://localhost:3306/test")
                 .setUsername("root")
                 .setPassword("123456");
 
@@ -43,8 +53,8 @@ public class MyTest {
         strategyConfig.setDbColumnUnderline(true)//全局大写命名
                 .setCapitalMode(true)//指定表名 字段名是否使用下划线
                 .setNaming(NamingStrategy.underline_to_camel)//数据库表映射到实体类的命名策略
-                .setTablePrefix("tbl_")
-                .setInclude("tbl_employee");
+                .setTablePrefix("zt_")
+                .setInclude("zt_depart_dim","zt_kpi_dim","zt_kpi_type_dim");
 
         //4、包名策略配置
         PackageConfig packageConfig = new PackageConfig();
@@ -66,6 +76,7 @@ public class MyTest {
         autoGenerator.execute();
 
     }
+
 
 
 }

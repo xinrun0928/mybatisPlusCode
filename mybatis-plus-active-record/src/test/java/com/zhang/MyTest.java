@@ -35,6 +35,7 @@ public class MyTest {
 
         Page<Employee> page = employee.selectPage(new Page<Employee>(1,1),new EntityWrapper<Employee>().like("last_name","Tom"));
         System.out.println(page);
+
         List<Employee> employeeList = page.getRecords();
         System.out.println(employeeList);
     }
