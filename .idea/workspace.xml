@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d64cc5b6-545b-4c44-b122-2cf95b68baa6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-active-record/src/test/java/com/zhang/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-active-record/src/test/java/com/zhang/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-auto-code/src/test/java/com/zhang/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-auto-code/src/test/java/com/zhang/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-auto-code/target/test-classes/com/zhang/MyTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-auto-code/target/test-classes/com/zhang/MyTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-plus-demo01/src/test/java/com/zhang/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-plus-demo01/src/test/java/com/zhang/MyTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/mybatis-plus-demo01/target/" />
     <ignored path="$PROJECT_DIR$/mybatis-plus-active-record/target/" />
@@ -66,8 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis-plus-auto-code/src/test/java/com/zhang/MyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+            <state relative-caret-position="380">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,7 +83,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mybatis-plus-auto-code/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="1064">
               <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="89" selection-end-column="21" />
             </state>
           </provider>
@@ -216,7 +212,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
@@ -228,236 +224,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-active-record" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zhang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mybatisplus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybatis-plus-auto-code" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -607,6 +376,8 @@
       <workItem from="1616679304085" duration="97000" />
       <workItem from="1616679966471" duration="19000" />
       <workItem from="1616680255939" duration="1397000" />
+      <workItem from="1617405466944" duration="619000" />
+      <workItem from="1617627302301" duration="42000" />
     </task>
     <servers />
   </component>
@@ -643,13 +414,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32169000" />
+    <option name="totallyTimeSpent" value="32830000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.51318103" visible="true" weight="0.23458445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.51318103" visible="true" weight="0.24128686" />
       <window_info id="Structure" order="1" sideWeight="0.48681897" side_tool="true" weight="0.19034852" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -983,6 +754,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/apache-maven-3.5.4/respository/com/baomidou/mybatis-plus-support/2.3/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="198" column="12" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-plus-injector/src/main/java/com/zhang/injector/MySqlInjector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1017,9 +795,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mybatis-plus-auto-code/src/main/java/com/zhang/entity/KpiDim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-plus-auto-code/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="1064">
           <caret line="56" column="8" selection-start-line="56" selection-start-column="8" selection-end-line="89" selection-end-column="21" />
         </state>
       </provider>
@@ -1045,24 +830,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/apache-maven-3.5.4/respository/com/baomidou/mybatis-plus-support/2.3/mybatis-plus-support-2.3-sources.jar!/com/baomidou/mybatisplus/mapper/BaseMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="198" column="12" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis-plus-auto-code/src/main/java/com/zhang/entity/KpiDim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mybatis-plus-auto-code/src/test/java/com/zhang/MyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="380">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
